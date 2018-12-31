@@ -8,8 +8,8 @@
 	<bean id="ucgen" class="com.okan.Ucgen">
 	
 			<constructor-arg name="cesit" value="İkiz Kenar2"/>
-			<property name="cesit" value="eşkenar"/>
+			<property name="sayi" value="4e4"/>
 	</bean>
-	
+		
 	
 </beans>
